@@ -1,18 +1,15 @@
 {
-  "title": {
-    "message": "Physical AI & Humanoid Robotics Textbook",
-    "description": "The title in the navbar"
+  "navbar.title": {
+    "message": "Physical AI & Humanoid Robotics Textbook"
   },
-  "logo.alt": {
-    "message": "My Site Logo",
-    "description": "The alt text of navbar logo"
+  "navbar.logo.alt": {
+    "message": "Physical AI & Humanoid Robotics Textbook logo"
   },
-  "item.label.Textbook": {
-    "message": "Textbook",
-    "description": "Navbar item with label Textbook"
+
+  "navbar.item.textbook": {
+    "message": "Textbook"
   },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
+  "navbar.item.github": {
+    "message": "GitHub"
   }
 }
